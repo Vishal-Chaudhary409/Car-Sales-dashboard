@@ -72,4 +72,4 @@ Dealer Performance Monitoring: Identifying top dealers allows replication of suc
 Product Strategy: Insights into popular models guide manufacturing and inventory planning.
 
 ### 6. Screenshot
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/Vishal-Chaudhary409/Car-Sales-dashboard/blob/main/Car_Sales_Dashboard.png)
