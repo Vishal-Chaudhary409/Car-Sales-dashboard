@@ -1,6 +1,5 @@
 # Car-Sales-dashboard
 1. Project Title
-2. 
 Car Sales Insights Dashboard – An Interactive Power BI Solution for Sales Performance Tracking
 A dynamic and interactive data visualization tool designed to analyze and monitor car sales performance across years, quarters, regions, and customer segments—helping stakeholders make data-driven business decisions.
 
