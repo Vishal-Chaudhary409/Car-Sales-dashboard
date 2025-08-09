@@ -72,4 +72,4 @@ Dealer Performance Monitoring: Identifying top dealers allows replication of suc
 Product Strategy: Insights into popular models guide manufacturing and inventory planning.
 
 ### 6. Screenshot
-So this is how Dashboard looks like: 
+So this is how Dashboard looks like: https://github.com/Vishal-Chaudhary409/Car-Sales-dashboard/blob/main/Car_Sales_Dashboard.png
