@@ -1,12 +1,12 @@
 # Car-Sales-dashboard
-1. Project Title
+### 1. Project Title
 Car Sales Insights Dashboard – An Interactive Power BI Solution for Sales Performance Tracking
 A dynamic and interactive data visualization tool designed to analyze and monitor car sales performance across years, quarters, regions, and customer segments—helping stakeholders make data-driven business decisions.
 
-3. Short Description
+### 3. Short Description
 The Car Sales Insights Dashboard is a visually compelling and analytical Power BI report built to provide deep insights into vehicle sales trends, top-performing dealers, customer demographics, and regional performance. This dashboard is designed for sales managers, automotive marketers, and business analysts to quickly identify growth opportunities and optimize sales strategies.
 
-4. Tech Stack
+### 4. Tech Stack
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Core platform for dashboard creation and visualization.
 • 📂 Power Query – For data cleaning, transformation, and preparation.
@@ -14,11 +14,11 @@ The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Linking multiple data tables (sales, customers, dealers, and models) for interactive filtering and aggregation.
 • 📁 File Format – .pbix for the Power BI report and .png for dashboard preview images.
 
-5. Data Source
+### 5. Data Source
 Source: Internal automotive sales dataset (simulated).
 The dataset contains detailed car sales transactions with fields for model, body style, dealer region, company, customer name, gender, sales amount, and date. The data covers multiple years and quarters, enabling time-based trend analysis.
 
-6. Features / Highlights
+### 6. Features / Highlights
 • Business Problem
 Automotive sales companies often struggle to track multi-dimensional sales data efficiently—covering product types, dealer performance, and customer demographics. Without a consolidated view, strategic decision-making becomes challenging.
 
@@ -67,5 +67,5 @@ Dealer Performance Monitoring: Identifying top dealers allows replication of suc
 
 Product Strategy: Insights into popular models guide manufacturing and inventory planning.
 
-6. Screenshot
+### 6. Screenshot
 7. So this is how Dashboard looks like: 
