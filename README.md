@@ -9,9 +9,13 @@ The Car Sales Insights Dashboard is a visually compelling and analytical Power B
 ### 4. Tech Stack
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Core platform for dashboard creation and visualization.
+
 • 📂 Power Query – For data cleaning, transformation, and preparation.
+
 • 🧠 DAX (Data Analysis Expressions) – For creating calculated measures and dynamic KPIs.
+
 • 📝 Data Modeling – Linking multiple data tables (sales, customers, dealers, and models) for interactive filtering and aggregation.
+
 • 📁 File Format – .pbix for the Power BI report and .png for dashboard preview images.
 
 ### 5. Data Source
@@ -68,4 +72,4 @@ Dealer Performance Monitoring: Identifying top dealers allows replication of suc
 Product Strategy: Insights into popular models guide manufacturing and inventory planning.
 
 ### 6. Screenshot
-7. So this is how Dashboard looks like: 
+So this is how Dashboard looks like: 
